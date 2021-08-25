@@ -1,3 +1,9 @@
+# **NOW DEPRECATED**
+> Wow, this is the second time i've had to kill a utility. Beetle was really just a shitty attempt at preserving my pride instead of using other people's libraries, and
+> while it did that alright, i'm too lazy to maintain a bloated package with slightly outdated functionalities and implementations. It will be succeeded by OpenMinePlatform 
+> and LittleThings.
+
+
 # **Beetle**
 _A collection of semicentralized utilities for Java development_
 
